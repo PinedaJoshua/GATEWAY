@@ -9,7 +9,10 @@
         "dusterio/lumen-passport": "^0.3.2",
         "guzzlehttp/guzzle": "^7.9",
         "laravel/lumen-framework": "^9.0",
-        "laravel/passport": "^10.4"
+        "laravel/passport": "^10.4",
+        "symfony/event-dispatcher": "6.4",
+        "symfony/http-kernel": "6.4",
+        "symfony/string": "6.4"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
